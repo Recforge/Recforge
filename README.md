@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @imtiyaz
 - 👀 A Passionate Software developer | Content Creator | Blogger
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Flutter**
 - 💞️ Ask me about: **Python**, **HTML**, **CSS**, etc.
 
 <!---
